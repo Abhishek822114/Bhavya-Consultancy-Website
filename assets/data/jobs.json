@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Office Assistant",
+    "company": "Bhavya Consultancy Serviceses",
+    "location": "Garhwa, Jharkhand",
+    "eligibility": "10th/12th Pass, Basic Computer",
+    "salary_min": 15000,
+    "salary_max": 22000
+  },
+  {
+    "title": "Data Entry Operator",
+    "company": "Bhavya Consultancy Serviceses",
+    "location": "Remote / WFH",
+    "eligibility": "Typing 30+ WPM, MS Excel",
+    "salary_min": 12000,
+    "salary_max": 20000
+  },
+  {
+    "title": "Accounts Assistant (Tally)",
+    "company": "Bhavya Consultancy Serviceses",
+    "location": "Varanasi, Uttar Pradesh",
+    "eligibility": "12th Pass, Tally Basics",
+    "salary_min": 18000,
+    "salary_max": 25000
+  }
+]
