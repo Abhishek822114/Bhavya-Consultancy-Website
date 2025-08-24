@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "Initial commit - Bhavya_Consultancy_Services_Website"
-git branch -M main
-git remote add origin https://github.com/Abhi-kr7870/bhavya_consultancy_services_website.git
-git push -u origin main
