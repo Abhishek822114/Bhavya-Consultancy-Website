@@ -1,4 +1,4 @@
-
+  
 // Mobile menu toggle (optional enhancement if you later add burger menu)
 function scrollToId(id) {
   const el = document.getElementById(id);
